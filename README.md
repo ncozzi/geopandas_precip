@@ -14,4 +14,4 @@ Data source: https://psl.noaa.gov/data/gridded/
 
 --------------
 
-![alt text]([https://github.com/ncozzi/geopandas_precip/images/geopandas_precip.png](https://github.com/ncozzi/geopandas_precip/tree/main/images)?raw=true)
+![alt text]([https://github.com/ncozzi/geopandas_precip/images/geopandas_precip.png]?raw=true)
