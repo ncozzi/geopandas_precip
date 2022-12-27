@@ -11,7 +11,5 @@ The plot showcases regions with higher and lower average yearly precipitations
 
 Data source: https://psl.noaa.gov/data/gridded/
 
-
 --------------
-
 ![plot](images/geopandas_precip.png)
