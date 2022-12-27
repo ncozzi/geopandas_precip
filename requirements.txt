@@ -8,3 +8,4 @@ netCDF4==1.6.2
 numpy==1.21.6
 pandas==1.4.4
 xarray==0.20.1
+h5netcdf==1.1.0
