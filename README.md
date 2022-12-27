@@ -6,3 +6,7 @@ This involves the following:
 - Processing gridded N-dimensional (latitude x longitude x time) datafiles in NetCDF format using **dask**
 - Data wrangling
 - geopandas plotting
+
+The plot showcases regions with higher and lower average yearly precipitations
+
+Data source: https://psl.noaa.gov/data/gridded/
